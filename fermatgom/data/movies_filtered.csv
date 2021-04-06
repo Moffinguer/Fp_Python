@@ -1,0 +1,21 @@
+color;director_name;num_critic_for_reviews;duration;genres;actor_1_name;movie_title;num_user_for_reviews;language;country;content_rating;budget;title_year;imdb_score;aspect_ratio
+Color;James Cameron;723;178;Action|Adventure|Fantasy|Sci-Fi;CCH Pounder;Avatar ;3054;English;USA;PG-13;237000000;2009;7.9;1.78
+Color;Gore Verbinski;302;169;Action|Adventure|Fantasy;Johnny Depp;Pirates of the Caribbean: At World's End ;1238;English;USA;PG-13;300000000;2007;7.1;2.35
+Color;Sam Mendes;602;148;Action|Adventure|Thriller;Christoph Waltz;Spectre ;994;English;UK;PG-13;245000000;2015;6.8;2.35
+Color;Christopher Nolan;813;164;Action|Thriller;Tom Hardy;The Dark Knight Rises ;2701;English;USA;PG-13;250000000;2012;8.5;2.35
+Color;Andrew Stanton;462;132;Action|Adventure|Sci-Fi;Daryl Sabara;John Carter ;738;English;USA;PG-13;263700000;2012;6.6;2.35
+Color;Sam Raimi;392;156;Action|Adventure|Romance;J.K. Simmons;Spider-Man 3 ;1902;English;USA;PG-13;258000000;2007;6.2;2.35
+Color;Nathan Greno;324;100;Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance;Brad Garrett;Tangled ;387;English;USA;PG;260000000;2010;7.8;1.85
+Color;Joss Whedon;635;141;Action|Adventure|Sci-Fi;Chris Hemsworth;Avengers: Age of Ultron ;1117;English;USA;PG-13;250000000;2015;7.5;2.35
+Color;David Yates;375;153;Adventure|Family|Fantasy|Mystery;Alan Rickman;Harry Potter and the Half-Blood Prince ;973;English;UK;PG;250000000;2009;7.5;2.35
+Color;Zack Snyder;673;183;Action|Adventure|Sci-Fi;Henry Cavill;Batman v Superman: Dawn of Justice ;3018;English;USA;PG-13;250000000;2016;6.9;2.35
+Color;Bryan Singer;434;169;Action|Adventure|Sci-Fi;Kevin Spacey;Superman Returns ;2367;English;USA;PG-13;209000000;2006;6.1;2.35
+Color;Marc Forster;403;106;Action|Adventure;Giancarlo Giannini;Quantum of Solace ;1243;English;UK;PG-13;200000000;2008;6.7;2.35
+Color;Gore Verbinski;313;151;Action|Adventure|Fantasy;Johnny Depp;Pirates of the Caribbean: Dead Man's Chest ;1832;English;USA;PG-13;225000000;2006;7.3;2.35
+Color;Gore Verbinski;450;150;Action|Adventure|Western;Johnny Depp;The Lone Ranger ;711;English;USA;PG-13;215000000;2013;6.5;2.35
+Color;Zack Snyder;733;143;Action|Adventure|Fantasy|Sci-Fi;Henry Cavill;Man of Steel ;2536;English;USA;PG-13;225000000;2013;7.2;2.35
+Color;Andrew Adamson;258;150;Action|Adventure|Family|Fantasy;Peter Dinklage;The Chronicles of Narnia: Prince Caspian ;438;English;USA;PG;225000000;2008;6.6;2.35
+Color;Joss Whedon;703;173;Action|Adventure|Sci-Fi;Chris Hemsworth;The Avengers ;1722;English;USA;PG-13;220000000;2012;8.1;1.85
+Color;Rob Marshall;448;136;Action|Adventure|Fantasy;Johnny Depp;Pirates of the Caribbean: On Stranger Tides ;484;English;USA;PG-13;250000000;2011;6.7;2.35
+Color;Barry Sonnenfeld;451;106;Action|Adventure|Comedy|Family|Fantasy|Sci-Fi;Will Smith;Men in Black 3 ;341;English;USA;PG-13;225000000;2012;6.8;1.85
+Color;Peter Jackson;422;164;Adventure|Fantasy;Aidan Turner;The Hobbit: The Battle of the Five Armies ;802;English;New Zealand;PG-13;250000000;2014;7.5;2.35
